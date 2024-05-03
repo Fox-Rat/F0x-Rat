@@ -4,7 +4,7 @@ Android Remote Control
 
 【 Fox-Rat V1.0 functionality 】
 
-◎ File Manager
+◎ File Manager 
 
 ► Download/Upload
 ► Advanced search
